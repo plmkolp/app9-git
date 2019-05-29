@@ -9,8 +9,8 @@ body{
 	font-family:arial;
 	font-size:13px;
 	line-height:1.5em;
-	color:#9600B1;
-	background-color:#3FF
+	color:#009;
+	background-color:#9F0
 	}
    
    .clearfix{
@@ -20,7 +20,7 @@ body{
    #container{
 	   width:330px;
 	   min-height:400px;
-	   background:#FD0A8B;
+	   background:#FF4242;
 	   overflow:auto;
 	   margin:60px auto;
 	   -moz-border-radius:10px;
@@ -51,10 +51,9 @@ body{
    
    input#volume{
 	   width:95%;
-	   
 	   margin-left:2%;
 	   -webkit-appearance:none !important;
-	   background:#2200FF;
+	   background:#0CF;
 	   height:1pc;
 	   margin-bottom:20px;
    }
@@ -104,7 +103,7 @@ body{
 	#playlist li.active {
 		font-weight:bold;
 		padding:3px;
-		background:#D8FF00;
+		background:#6F9;
 	}
 	
 	#progressBar{
@@ -128,7 +127,7 @@ body{
 		top:0;
 		right:10px;
 		padding:4px 8px;
-		background:#0F0;
+		background:#FC0;
 		border-radius:5px;
 	}
 	   
